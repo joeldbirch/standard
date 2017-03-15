@@ -14,8 +14,9 @@
   "dependencies": {
     "eslint": "~3.16.1",
     "eslint-config-standard": "8.0.0-beta.1",
-    "eslint-config-standard-jsx": "3.3.0",
     "eslint-config-standard-flow": "^1.0.1",
+    "eslint-config-standard-jsx": "3.3.0",
+    "eslint-plugin-flowtype": "^2.30.3",
     "eslint-plugin-import": "~2.2.0",
     "eslint-plugin-node": "~4.1.0",
     "eslint-plugin-promise": "~3.5.0",
